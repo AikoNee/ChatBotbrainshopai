@@ -1,5 +1,3 @@
-const uptime = require("uptime-express")
-uptime.start(443)
 
 const express = require('express');
 const path = require('path');
