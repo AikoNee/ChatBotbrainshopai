@@ -1,0 +1,22 @@
+{
+  "name": "chatbotbrainshopai",
+  "version": "1.0.0",
+  "description": "Chatbot based brainshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AikoNee/ChatBotbrainshopai.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "AikoNee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AikoNee/ChatBotbrainshopai/issues"
+  },
+  "homepage": "https://github.com/AikoNee/ChatBotbrainshopai#readme"
+}
