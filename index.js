@@ -1,6 +1,6 @@
 const { Client, Intents } = require('discord.js');
 // Create a new client instance
-const client = new Client({ intents: [GUILDS", "GUILD_MESSAGES] });
+const client = new Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
 require('discord-inline-reply');
 
