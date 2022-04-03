@@ -1,5 +1,5 @@
 %%© Brainshoo Chatbot On Discord %%©
-[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)]
+<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
 くコ:彡くコ:彡くコ:彡くコ:彡くコ:彡
 
 Simply coded on replit by Aiko 
